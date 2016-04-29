@@ -49,7 +49,11 @@ public class MainActivity extends AppCompatActivity {
 
         return super.onOptionsItemSelected(item);
     }
+<<<<<<< HEAD
 	
 	
 	//我在这里做了修改 ----------------   lxh
+=======
+	//我在remote origin上添加了一行 --------------------------
+>>>>>>> 909fb300a55417c40983cc9b5897607b7cb5bfcb
 }
