@@ -56,4 +56,5 @@ public class MainActivity extends AppCompatActivity {
 =======
 	//我在remote origin上添加了一行 --------------------------
 >>>>>>> 909fb300a55417c40983cc9b5897607b7cb5bfcb
-}
+
+//我在d2上添加了一行代码  ——————————————}
